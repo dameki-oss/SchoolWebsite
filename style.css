@@ -1,0 +1,17 @@
+body
+{
+    text-align: center;
+}
+#video {
+    width: 80%;
+}
+body {
+    text-align: center;
+    background-color: dimgray;
+}
+#marqueestyle {
+    background-color: dodgerblue;
+}
+#mynavbar {
+    color: white;
+}
